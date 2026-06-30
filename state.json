@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "bot_id": 26438,
+  "asset": "SOL/USDC",
+  "branch": "claude/uden-bot-state",
+  "note": "Owned and overwritten by the Uden hourly routine. Do NOT hand-edit while the routine is active.",
+  "last_updated_utc": null,
+  "equity_high_water_usd": null,
+  "open_trade": null,
+  "setup_stats": {
+    "breakout_long": { "trades": 0, "wins": 0, "pnl_usd": 0.0 },
+    "hedge_short":   { "trades": 0, "wins": 0, "pnl_usd": 0.0 },
+    "bear_short":    { "trades": 0, "wins": 0, "pnl_usd": 0.0 }
+  }
+}
